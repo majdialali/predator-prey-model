@@ -1,0 +1,2 @@
+# predator-prey-model
+a group project on master level where we develop a simulation model consisting of rabbits (predator) and a mixture of nutritious and toxic flowers (prey), which uses these techniques to explore how different agent-traits evolve during each iteration of the model. Our simulation shows that the rabbits are capable of adapting to their environment by improving their intelligence, which is represented by an Artificial Neural Network trained with reinforcement learning and optimized by genetic algorithm..
